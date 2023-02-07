@@ -66,6 +66,7 @@ Regardless, you are still reminded to use LosslessSwitcher at your own risk.
 | CPU             | Mac Model                                            | macOS Version   | Beta macOS? | Audio Device    |
 | --------------- | ---------------------------------------------------- | --------------- | ----------- | --------------- |
 |      Intel      | MacBook Pro 13 inch (Early 2015, Dual Core i5)       | 11.6.2          | No    | Denon AVR-X4400H |
+|      Intel      | MacBook Pro 15 inch (Mid 2014, Quad Core i7)         | 11.7.3          | No    | Topping DX3 Pro+ (USB and Optical)|
 |      Intel      | Mac mini (2018)                                      | 12.2<br/>12.4   | No    | Denon PMA-50    |
 |      Intel      | MacBook Pro 13 inch (2018)                           | 12.3.1          | No    | Denon PMA-50    |
 |      Intel      | MacBook Pro 13 inch, four Thunderbolt 3 ports (2016) | 12.3.1          | No    | Topping DX7 Pro |
